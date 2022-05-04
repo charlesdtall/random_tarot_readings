@@ -1,0 +1,3 @@
+#Random Tarot Readings
+
+This project creates sentences that mimic those of the vague tarot readings one might get from a cheap psychic based on traditional techniques used to appear specific to the client while still being vague enough so as not to commit to a likely incorrect statement. While far from perfect, this program simply aims at demonstrating the type of techniques many 'psychics' use to scam vulnerable people. This is fully intended to be light-hearted and I make no claims as to whether or not psychic powers actually exist.
